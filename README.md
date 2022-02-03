@@ -73,6 +73,11 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 <br />
 <br />
 
+### Last commit
+
+<!-- LATESTCOMMIT:START -->
+<!-- LATESTCOMMIT:END -->
+
 <!--- TOOLS LINKS -->
 
 [typescript]: https://www.typescriptlang.org/ 'typescript'
