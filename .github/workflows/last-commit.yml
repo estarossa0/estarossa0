@@ -12,5 +12,3 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: estarossa0/readme-last-commit@master
-        with:
-          data: 'exmaple'
