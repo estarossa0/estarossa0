@@ -73,8 +73,6 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 <br />
 <br />
 <br />
-<br />
-<br />
 
 ## Recent activities
 
@@ -86,6 +84,11 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 
 [commitUrl]: https://github.com/estarossa0/readme-last-commit/commit/3dc6b5d10a317c47d377f73dea5ebf0d2f2762c4
 <!-- LATESTCOMMIT:END -->
+</details>
+
+<details>
+<summary>Recent 5 activities</summary>
+  <!--START_SECTION:activity-->
 </details>
 
 <!--- TOOLS LINKS -->
