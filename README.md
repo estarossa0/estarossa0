@@ -89,6 +89,7 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 
 <details>
 <summary>Recent 5 activities</summary>
+
   <!--START_SECTION:activity-->
 </details>
 
