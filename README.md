@@ -72,11 +72,17 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />][c++]
 <br />
 <br />
+<br />
+<br />
+<br />
 
-### Last commit
+## Recent activities
 
+<details>
+<summary>Recent commit 🚀</summary>
 <!-- LATESTCOMMIT:START -->
 <!-- LATESTCOMMIT:END -->
+</details>
 
 <!--- TOOLS LINKS -->
 
