@@ -12,3 +12,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: estarossa0/readme-last-commit@master
+
+  update-activities:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activities
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
