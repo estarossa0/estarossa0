@@ -82,9 +82,9 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 <summary>Recent commit 🚀</summary>
 <!-- LATESTCOMMIT:START -->
 
-[<img width="380px" height="200px" src="https://opengraph.githubassets.com/98c3fa6ec174d12a0013a5e0f87a3f38575e43afce52e2c817840482ed57a7d3/estarossa0/estarossa0/commit/50b2406cccffd0bebada2c71265671f3cee1f37f" />][commitUrl]
+[<img width="380px" height="200px" src="https://opengraph.githubassets.com/de3e717fad173f9f1ccb89f5dbbe105ee5f7d3338654c96a1f9ee581c50381ea/estarossa0/readme-last-commit/commit/3dc6b5d10a317c47d377f73dea5ebf0d2f2762c4" />][commitUrl]
 
-[commitUrl]: https://github.com/estarossa0/estarossa0/commit/50b2406cccffd0bebada2c71265671f3cee1f37f
+[commitUrl]: https://github.com/estarossa0/readme-last-commit/commit/3dc6b5d10a317c47d377f73dea5ebf0d2f2762c4
 <!-- LATESTCOMMIT:END -->
 </details>
 
