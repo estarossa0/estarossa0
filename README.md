@@ -88,7 +88,7 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 </details>
 
 <details>
-<summary>Recent 5 activities</summary>
+<summary>Recent 5 activities 🔭</summary>
 
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/estarossa0/1337-reports/pull/3) in [estarossa0/1337-reports](https://github.com/estarossa0/1337-reports)
