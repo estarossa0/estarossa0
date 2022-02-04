@@ -91,6 +91,12 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 <summary>Recent 5 activities</summary>
 
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/estarossa0/1337-reports/pull/3) in [estarossa0/1337-reports](https://github.com/estarossa0/1337-reports)
+2. 🎉 Merged PR [#4](https://github.com/estarossa0/1337-reports/pull/4) in [estarossa0/1337-reports](https://github.com/estarossa0/1337-reports)
+3. 🎉 Merged PR [#2](https://github.com/estarossa0/1337-reports/pull/2) in [estarossa0/1337-reports](https://github.com/estarossa0/1337-reports)
+4. 🗣 Commented on [#10290](https://github.com/MetaMask/metamask-extension/issues/10290) in [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+5. 🗣 Commented on [#5382](https://github.com/MetaMask/metamask-extension/issues/5382) in [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+<!--END_SECTION:activity-->
 </details>
 
 <!--- TOOLS LINKS -->
