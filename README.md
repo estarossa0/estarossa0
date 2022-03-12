@@ -80,9 +80,9 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 <summary>Recent commit 🚀</summary>
 <!-- LATESTCOMMIT:START -->
 
-[<img width="380px" height="200px" src="https://opengraph.githubassets.com/dd741b61f6823715e578bb035ea18966a1247d9acc8b68f8aceb111b22234c25/estarossa0/transcendence/commit/b660b0d65f08bc3718114abd5d6442d5157b98ee" />][commitUrl]
+[<img width="380px" height="200px" src="https://opengraph.githubassets.com/8802585c5af382a3bb4cbc0b618bf71f2dd9e61fe62b24ca56e3e2f9456c6894/estarossa0/transcendence/commit/6ef3e712fb4a0d3b84d7c6aa90f11a8f3cec232d" />][commitUrl]
 
-[commitUrl]: https://github.com/estarossa0/transcendence/commit/b660b0d65f08bc3718114abd5d6442d5157b98ee
+[commitUrl]: https://github.com/estarossa0/transcendence/commit/6ef3e712fb4a0d3b84d7c6aa90f11a8f3cec232d
 <!-- LATESTCOMMIT:END -->
 </details>
 
