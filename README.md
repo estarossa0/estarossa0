@@ -80,9 +80,9 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 <summary>Recent commit 🚀</summary>
 <!-- LATESTCOMMIT:START -->
 
-[<img width="380px" height="200px" src="https://opengraph.githubassets.com/3107b784c46421c59584cddb43f92cbb65764baf617203fa184a453c80a1356a/estarossa0/cash-flow/commit/1e771f6fff8f6c132a932576d07013b7e9847552" />][commitUrl]
+[<img width="380px" height="200px" src="https://opengraph.githubassets.com/40677b911ef773ff29ac5be7710db98a1b6284f07b06f343956a5e986bd9da29/estarossa0/cash-flow/commit/43294caa7b2e52d0460f9a8d7a1792c0ffabeecc" />][commitUrl]
 
-[commitUrl]: https://github.com/estarossa0/cash-flow/commit/1e771f6fff8f6c132a932576d07013b7e9847552
+[commitUrl]: https://github.com/estarossa0/cash-flow/commit/43294caa7b2e52d0460f9a8d7a1792c0ffabeecc
 <!-- LATESTCOMMIT:END -->
 </details>
 
