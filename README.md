@@ -7,7 +7,7 @@
 - 👨‍💻 I'm currently working with [@Hyperspace][hyperspace]
 - ✅ I only write type-safe code and love using modern typescript frameworks
 - 🔍 Interested in web3 and dapps that are built on top Ethereum blockchain
-- 🥅 2022 goal: learn web3 and contribute to web3 Open Source projects
+- 🥅 2023 goal: learn web3 and contribute to web3 Open Source projects
 
 ### Connect with me:
 
