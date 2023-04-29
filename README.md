@@ -47,11 +47,11 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 
 [<img width="60px" height="40px" align="left" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" />][prisma]
 
-[<img width="40px" align="left" src="https://raw.githubusercontent.com/tannerlinsley/react-query/master/docs/src/images/emblem-light.svg" />][react-query]
+[<img width="40px" align="left" src="https://img.stackshare.io/service/25599/default_c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" />][react-query]
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />][threejs]
 
-[<img width="60px" height="40px" align="left" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored.svg" />][chakra]
+[<img width="40px" height="40px" align="left" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" />][chakraUI]
 
 [<img width="30px" height="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />][tailwind]
 
@@ -113,7 +113,7 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 [prisma]: https://www.prisma.io/ 'prisma'
 [react-query]: https://react-query.tanstack.com/ 'react-query'
 [threejs]: https://threejs.org/
-[chakra]: https://chakra-ui.com/ 'chakra'
+[chakraUI]: https://chakra-ui.com/ 'chakra'
 [tailwind]: https://tailwindcss.com/ 'tailwind'
 [expressjs]: https://expressjs.com/ 'expressjs'
 [auth0]: https://auth0.com/ 'auth0'
