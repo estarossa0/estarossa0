@@ -4,7 +4,7 @@
 
 ## I'm a self-taught Full-stack developer and 1337 student
 
-- 👨‍💻 I'm currently working with [@Hyperspace][hyperspace]
+- 👨‍💻 I'm currently working on [Estarossa.me](http://www.estarossa.me/) (WIP)
 - ✅ I only write type-safe code and love using modern typescript frameworks
 - 🔍 Interested in web3 and dapps that are built on top Ethereum blockchain
 - 🥅 2023 goal: learn web3 and contribute to web3 Open Source projects
