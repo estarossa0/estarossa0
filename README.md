@@ -1,6 +1,11 @@
 # Hi there, I'm Abdelbari Rraji - aka Estarossa 👋
 
-[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:arraji@pm.me)
+### Contact
+[//]: # ([<img width="40px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />][contact])
+hey@estarossa.me
+
+For work related :<br/>
+projects@estarossa.me
 
 ## I'm a self-taught Full-stack developer and 1337 student
 
@@ -100,6 +105,7 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 
 <!--- TOOLS LINKS -->
 
+[contact]: mailto:contact@estarossa.me 'Contact me'
 [typescript]: https://www.typescriptlang.org/ 'typescript'
 [javascript]: https://www.javascript.com/ 'javascript'
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML 'html'
