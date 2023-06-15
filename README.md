@@ -7,7 +7,7 @@ hey@estarossa.me
 For work related :<br/>
 projects@estarossa.me
 
-## I'm a self-taught Full-stack developer and 1337 student
+## I'm a self-taught Full-stack developer and 1337 alumni
 
 - 👨‍💻 I'm currently working on [Estarossa.me](http://www.estarossa.me/) (WIP)
 - ✅ I only write type-safe code and love using modern typescript frameworks
