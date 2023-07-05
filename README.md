@@ -1,5 +1,8 @@
 # Hi there, I'm Abdelbari Rraji - aka Estarossa 👋
 
+### Resume
+https://read.cv/estarossa
+
 ### Contact
 [//]: # ([<img width="40px" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />][contact])
 hey@estarossa.me
