@@ -88,9 +88,9 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 <summary>Recent commit 🚀</summary>
 <!-- LATESTCOMMIT:START -->
 
-[<img width="380px" height="200px" src="https://opengraph.githubassets.com/41ab96dcf768961e6f302cc4cb1b88ca0e6f30c2bdb896749c34691cb2c16333/estarossa0/nft-gallery/commit/3b61f7e7676eded1873382ccebce0e6d298eb8bc" />][commitUrl]
+[<img width="380px" height="200px" src="https://opengraph.githubassets.com/5902e7df3b96a8ee0a96f1a4682bc8a0f5273484aeeea001aa21e33c73cb2ff7/estarossa0/nft-gallery/commit/2affe38d8fc765d0173d0eced670ca3981f18aa0" />][commitUrl]
 
-[commitUrl]: https://github.com/estarossa0/nft-gallery/commit/3b61f7e7676eded1873382ccebce0e6d298eb8bc
+[commitUrl]: https://github.com/estarossa0/nft-gallery/commit/2affe38d8fc765d0173d0eced670ca3981f18aa0
 <!-- LATESTCOMMIT:END -->
 </details>
 
