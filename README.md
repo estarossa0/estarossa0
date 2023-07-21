@@ -98,7 +98,7 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 <summary>Recent 5 activities 🔭</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6216](https://github.com/microsoft/WSL/issues/6216) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. ❗ Opened issue [#2783](https://github.com/wagmi-dev/wagmi/issues/2783) in [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi)
 2. ❗️ Closed issue [#3350](https://github.com/nextauthjs/next-auth/issues/3350) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 3. 🎉 Merged PR [#3](https://github.com/estarossa0/1337-reports/pull/3) in [estarossa0/1337-reports](https://github.com/estarossa0/1337-reports)
 4. 🎉 Merged PR [#4](https://github.com/estarossa0/1337-reports/pull/4) in [estarossa0/1337-reports](https://github.com/estarossa0/1337-reports)
