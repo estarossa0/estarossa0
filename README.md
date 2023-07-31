@@ -98,10 +98,10 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 <summary>Recent 5 activities 🔭</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2794](https://github.com/wagmi-dev/wagmi/pull/2794) in [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi)
-2. 🗣 Commented on [#2783](https://github.com/wagmi-dev/wagmi/issues/2783#issuecomment-1645759793) in [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi)
-3. ❗ Opened issue [#2783](https://github.com/wagmi-dev/wagmi/issues/2783) in [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi)
-4. 🎉 Merged PR [#4](https://github.com/estarossa0/1337-reports/pull/4) in [estarossa0/1337-reports](https://github.com/estarossa0/1337-reports)
+1. 🗣 Commented on [#19548](https://github.com/MetaMask/metamask-extension/issues/19548#issuecomment-1657880600) in [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension)
+2. 💪 Opened PR [#2794](https://github.com/wagmi-dev/wagmi/pull/2794) in [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi)
+3. 🗣 Commented on [#2783](https://github.com/wagmi-dev/wagmi/issues/2783#issuecomment-1645759793) in [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi)
+4. ❗ Opened issue [#2783](https://github.com/wagmi-dev/wagmi/issues/2783) in [wagmi-dev/wagmi](https://github.com/wagmi-dev/wagmi)
 5. 🎉 Merged PR [#2](https://github.com/estarossa0/1337-reports/pull/2) in [estarossa0/1337-reports](https://github.com/estarossa0/1337-reports)
 <!--END_SECTION:activity-->
 </details>
