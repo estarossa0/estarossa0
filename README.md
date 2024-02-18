@@ -47,7 +47,7 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />][nextjs]
 
-[<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />][nestjs]
+[<img width="40px" align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" />][nestjs]
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />][graphql]
 
@@ -61,7 +61,7 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 
 [<img width="40px" height="40px" align="left" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" />][chakraUI]
 
-[<img width="30px" height="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />][tailwind]
+[<img width="30px" height="40px" align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" />][tailwind]
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />][expressjs]
 
