@@ -136,6 +136,6 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v
 <!--- PERSONAL LINKS -->
 
 [hyperspace]: https://twitter.com/HyperspaceOrg 
-[twitter]: https://twitter.com/a_rraji
+[twitter]: https://twitter.com/Estarossa_dev
 [linkedin]: https://www.linkedin.com/in/abdelbari-rraji-05b735176/
 [instagram]: https://www.instagram.com/estarossa1.1/
